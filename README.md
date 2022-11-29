@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ParkinT
+-  I have been writing software for **over 40 years**
 - 👀 I’m interested in software development and prestidigitation.  That is why I have written a few apps for Magicians
 - 🌱 I’m currently exploring **3 word addresses**
 - 💞️ I’m looking to collaborate on Ruby projects
